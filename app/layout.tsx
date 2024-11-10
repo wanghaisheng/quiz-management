@@ -1,4 +1,4 @@
-import Providers from "@/lib/providers";
+import Providers from "@/lib/Providers";
 import { ToastProvider } from "@/lib/toast-provider";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
